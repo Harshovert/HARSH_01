@@ -1,0 +1,5 @@
+harsh.txt
+oshen.txt
+*.log
+user_uploads/
+!two.log
